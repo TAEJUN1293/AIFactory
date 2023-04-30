@@ -1,4 +1,4 @@
-# 제 5회 연구개발특구 AI_SPARK_Challenge\
+# 제 5회 연구개발특구 AI_SPARK_Challenge
 
 - 주최 : 과학기술정보통신부 / 연구개발특구진흥재단
 
